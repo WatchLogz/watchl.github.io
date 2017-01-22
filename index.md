@@ -10,7 +10,10 @@ Header
 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
- <iframe src="https://goo.gl/LFk8Tg" style="border:0;width:100%;height: 20vw;"></iframe>
+ <iframe src="https://goo.gl/LFk8Tg" style="    border: 0;
+    width: 200%;
+    height: 25vw;
+    margin-left: -50%;"></iframe>
 
 
 ## [](#header-2)Header 2
