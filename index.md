@@ -4,7 +4,7 @@ layout: default
 
 
 
-<div class="container">
+
 
 # [](#header-1)Header 1
 
@@ -111,7 +111,6 @@ end
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
-</div>
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
