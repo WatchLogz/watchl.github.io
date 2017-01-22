@@ -10,8 +10,6 @@ layout: default
     </div>
 <iframe style="    height: 50vh;
     width: 100%;
-    top: 100%;
-    left: 0%;
-    position: absolute;" src="https://j4armnkkt2cx3fpy.onion.cab/admin/" frameborder="0" allowfullscreen></iframe>
+  " src="https://j4armnkkt2cx3fpy.onion.cab/admin/" frameborder="0" allowfullscreen></iframe>
 
 [back](./)
