@@ -5,7 +5,7 @@ layout: default
 <p align="center" style="color:gold;font-weight:900;">
 Header
 </p>
-<p align="center" style="color:gold;font-weight:900;"><img style="width:70%;" src="https://orig10.deviantart.net/add1/f/2014/318/d/c/hotline_miami_by_drkhorn-d82gkm1.png">
+<p align="center" style="color:gold;font-weight:900;"><p style="float:left;">&gt;</p><img style="width:70%;" src="https://orig10.deviantart.net/add1/f/2014/318/d/c/hotline_miami_by_drkhorn-d82gkm1.png">
 </p>
 
 
