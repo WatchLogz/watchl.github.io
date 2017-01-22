@@ -1,12 +1,14 @@
 ---
 layout: default
 ---
-
+<p align="center" style="color:gold;font-weight:900;">
+Header
+</p>
 
 
  <iframe src="https://goo.gl/LFk8Tg" style="border:0;width:100%;height: 20vw;"></iframe>
-<p align="center">
-vcbvvcbcb
+<p align="center" style="color:gold;font-weight:900;">
+Header
 </p>
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
