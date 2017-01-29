@@ -7,6 +7,6 @@ layout: default
 
 <iframe style="    height: 50vh;
     width: 100%;
-  " src="https://j4armnkkt2cx3fpy.onion.cab/admin/" frameborder="0" allowfullscreen></iframe>
+  " src="https://pro-to-tip.github.io/cmodel/index.html" frameborder="0" allowfullscreen></iframe>
 
 [back](./)
