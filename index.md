@@ -41,7 +41,9 @@ end
 
 [Link to another page](another-page).
 
-#### [](#header-4)Header 4
+#### [](#header-4)Чтобы установить контакт с системой UNIX вам необходимо иметь:
+
+
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
