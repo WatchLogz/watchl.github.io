@@ -45,9 +45,11 @@ end
 
 
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   терминал;
+*   регистрационное имя, которое идентифицирует вас как полномочного пользователя;
+*   пароль, который проверяет вас на идентичность;
+*   инструкции для диалога и доступа с системе UNIX, если ваш терминал напрямую не связан с компьютером.
+
 
 ##### [](#header-5)Header 5
 
